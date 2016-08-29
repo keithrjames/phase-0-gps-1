@@ -1,0 +1,6 @@
+#Reflection answers:
+1. Prior to the GPS session I was struggling with the merge and pull commands and a bit unsure or just what a merge conflict looked like.
+2. Clint helped both of us understand just what a merge conflict was.  The use of branches is a bit more clear now for me as well.  Clint also helped explain why something like add and commit were good things  to have instead of just one command for both.
+3. I asked my pair for help with a few syntaxes and got a bit stuck with the branch creation and switching.  I was able to get clarification on a few things with the guides help mainly just on what exactly to be doing.
+4. The most confusing thing still might be just when to use some of these commands instead of another.  I'm sure some of these assignments will help clarify just when to use them and how.
+5. First experience was great had a great partner who was patient and helpful and the guide was able to really clear up any questions we had.  It is a bit intimidating having someone just watching what you do but once I realized it's a good thing to have the guide there it was much easier.  
