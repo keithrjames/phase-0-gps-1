@@ -3,4 +3,4 @@
 - What concepts were clarified during the GPS? Almost everything. This was very helpful. It was nice to have Clint around so we could bounce ideas off of him. He also shed light on things I didn't know I had trouble with (why do we have a "staging" period during the git workflow).
 - What questions did you ask your pair and the guide? I asked about the difference between git pull and git fetch/merge, and when to use one method or another.
 - What still confuses you about Git? Honestly, I think it makes sense now, because we ran into a lot of issues, and got to work a lot of them out ourselves. I am noticing the system is pretty user-friendly...just got to stop making user errors!
-- How was your first experience of pairing in a GPS? Scary! But helpful. It is hard having two people watching you code, but the environment was so easy-going it kept me from freaking out. Lot of fun though.
+- How was your first experience of pairing in a GPS? Scary! But helpful. It is hard having two people watching you code, but the environment was so easy-going it kept me from freaking out. Lot of fun though. Look forward to more of these.
